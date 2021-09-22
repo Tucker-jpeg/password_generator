@@ -17,7 +17,7 @@ Follow the instructions on the [Python website](https://www.python.org/downloads
 ```bash
 #Returns a randomized password
 Welcome to the PyPassword Generator! 
-This tool will generate a random password that includes upper case letters, lower case letters, numbers, and symbols
+This tool will generate a random password that includes uppercase letters, lowercase letters, numbers, and symbols
 What is the minimum number of characters your password should be? 12
 What is the maximum number of characters your password should be? 20
 Your password is: 6+y(W2Nse&LKb+
